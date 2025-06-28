@@ -1,4 +1,4 @@
-![CursorRIPER♦Σ](./res/github-header.png)
+![    Simple-PDR-Wizard](./res/github-header.png)
 # 🧙‍♂️ PDR Wizard - Project Design Review Creator
 
 *CursorRIPER♦Σ Lite 1.0.0 Implementation*
